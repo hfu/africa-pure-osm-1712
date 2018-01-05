@@ -16,7 +16,7 @@
       "maxzoom": 14
     }
   },
-  "glyphs": "https://free.tilehosting.com/{fontstack}/{range}.pbf",
+  "glyphs": "https://hfu.github.io/noto-jp/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
@@ -1166,7 +1166,7 @@
         ],
         "icon-size": 1,
         "text-anchor": "top",
-        "text-field": "{name}",
+        "text-field": "{name:en}",
         "text-max-width": 8
       },
       "paint": {
@@ -1235,7 +1235,7 @@
         ]
       ],
       "layout": {
-        "text-field": "{name}",
+        "text-field": "{name:en}",
         "text-font": [
           "NotoSansCJKjp-DemiLight"
         ],
@@ -1282,7 +1282,7 @@
         ]
       ],
       "layout": {
-        "text-field": "{name}",
+        "text-field": "{name:en}",
         "text-font": [
           "NotoSansCJKjp-DemiLight"
         ],
@@ -1327,7 +1327,7 @@
         ]
       ],
       "layout": {
-        "text-field": "{name}",
+        "text-field": "{name:en}",
         "text-font": [
           "NotoSansCJKjp-DemiLight"
         ],
